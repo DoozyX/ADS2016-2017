@@ -6,6 +6,17 @@ import java.io.InputStreamReader;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+/*
+        Join lists Problem 2
+        For given two single linked lists with integers sorted in ascending order, join them in a sorted single linked list in ascending order. Duplicate nodes should be deleted.
+
+        The first line in the input gives the first list node number, then in the second line there are the node numbers in the first list. The third line gives the second list node number,
+        and in the end the forth line gives the numbers from the second list. The output prints the node numbers of the resulting list.
+
+        Class (Java): SLLJoinLists
+
+        Note: Create data structure single linked list and use it in this problem.
+*/
 
 public class SLLJoinLists {
     public static void main(String[] args) throws IOException {

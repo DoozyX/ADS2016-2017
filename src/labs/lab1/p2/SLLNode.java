@@ -1,6 +1,6 @@
 package labs.lab1.p2;
 
-class SLLNode<E> {
+public class SLLNode<E> {
     protected E element;
     protected SLLNode<E> succ;
 
