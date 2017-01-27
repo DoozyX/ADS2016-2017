@@ -4,7 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*      Average Problem 1 (1 / 1)
+/**
+        Average Problem 1 (1 / 1)
         For a given array with N (1≤N≤50) integers, find the element which is the closest to the average. If there are two elements with the same distance to the average, return the smaller.
         For example for the array 1, 2, 3, 4, 5 the average is (1 + 2 + 3 + 4 + 5) / 5 = 15 / 5 = 3, which means that the element which is the closest to the average is 3.
 

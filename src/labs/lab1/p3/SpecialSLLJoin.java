@@ -6,7 +6,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*
+/**
         Special join lists Problem 3
         Given two single linked lists with integer nodes, join them in a resulting single linked list in a way that alternatively adds at first the first two nodes from the first list,
          then the first two from the second, then next two from the first list, and then the second two from the second list, etc. The nodes that remain should be added at the end,

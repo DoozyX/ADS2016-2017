@@ -1,7 +1,8 @@
 package labs.lab0.p2;
 
 import java.util.Scanner;
-/*
+
+/**
         Trip Problem 2
         Define Java class Trip. The attributes for this class are: name of the agency that organize the trip (String) and price of the arrangement (int).
 
@@ -73,7 +74,7 @@ public class Test {
                 System.out.print(nizaPatuvanje[i].getName() + " ");
             }
         }
-        System.out.println("");
+        System.out.println();
 
 
         //решение на барање 2
